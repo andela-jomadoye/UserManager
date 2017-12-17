@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "docker-start": "docker-compose build && docker-compose up",
     "test": "jasmine tests/"
   },
   "keywords": [

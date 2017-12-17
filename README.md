@@ -19,7 +19,7 @@ This application was developed using [ExpressJS](http://expressjs.com/). MongoDB
 PORT=3000
 DB_URL='mongodb://john:doe@localhost:27017/databaseName'
 ```
-* After this, you can then start the server with the command: `npm start`.
+* After this, you can then start the server with the command: `npm docker-start`.
 
 ### Testing
 To ensure that your installation is successful you'll need to run tests.
